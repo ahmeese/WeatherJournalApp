@@ -14,7 +14,7 @@ Asynchronous web app that uses Open Weather Map API to get the temperature accor
 
 ## Instructions
 To run this app you need to do the following:
-1. Install Node.js from the following link
+1. Install Node.js from the following link https://nodejs.org/en
 2. Install the packages express,cors and body-parser by typing : npm i "PACKAGE-NAME"
 3. Make sure your are in the server.js directory
 4. Type node server.js in the terminal

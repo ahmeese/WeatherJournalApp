@@ -7,8 +7,8 @@ let newDate = d.toDateString();
 
 
 
-let baseURL = 'http://api.openweathermap.org/data/2.5/weather?zip='
-let apiKey = '&appid=7d4a7866e0521d00e12d82357bb92ada&units=metric';
+const baseURL = 'http://api.openweathermap.org/data/2.5/weather?zip='
+const apiKey = '&appid=7d4a7866e0521d00e12d82357bb92ada&units=metric';
 
 //Using the event listener to trigger the performAction function when the use click on generate button
   document.getElementById('generate').addEventListener('click', performAction);
